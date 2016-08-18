@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="messageui-0.1.9">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.duolc.diuitapi/messageui/0.1.9/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.duolc.diuitapi/messageui/0.1.9/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.duolc.diuitapi/messageui/0.1.9/jars/libs/universal-image-loader-1.9.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.duolc.diuitapi/messageui/0.1.9/78534d91feaa1dc3ea2ea262c00fea5d31523f9c/messageui-0.1.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

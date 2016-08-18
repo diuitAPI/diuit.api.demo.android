@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="message-1.1.11">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.duolc.diuitapi/message/1.1.11/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.duolc.diuitapi/message/1.1.11/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.duolc.diuitapi/message/1.1.11/jars/libs/postgresql-9.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.duolc.diuitapi/message/1.1.11/a8aba6606be86a914baa6050e7221c82a462837/message-1.1.11-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
